@@ -5,5 +5,9 @@
   "name": "release-notes",
   "version": "1.0.0",
   "description": "Turn supplied changes into clear release notes with user impact, upgrade steps, and known limitations.",
-  "repository": "https://github.com/sobieskilabs/pluginlabs-publishing-example"
+  "repository": "https://github.com/sobieskilabs/pluginlabs-publishing-example",
+  "homepage": "https://github.com/sobieskilabs/pluginlabs-publishing-example",
+  "documentationUrl": "https://github.com/sobieskilabs/pluginlabs-publishing-example#readme",
+  "supportUrl": "https://github.com/sobieskilabs/pluginlabs-publishing-example/issues",
+  "privacyPolicyUrl": "https://github.com/sobieskilabs/pluginlabs-publishing-example/blob/main/PRIVACY.md"
 }
