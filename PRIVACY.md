@@ -13,7 +13,7 @@ This notice describes the plugin packages. It does not cover the PluginLabs webs
 
 Each plugin contains an instruction-only skill. It uses text that you supply in the host assistant, such as change lists, commit summaries, or diffs, to draft release notes. That text can contain names, email addresses, or other personal information if you include them.
 
-The skill instructs the assistant to remove passwords, access tokens, private email addresses, and other secrets from the output. This instruction is not a guarantee of complete removal. Review the input and the generated draft before you share them. Do not supply secrets or personal information that is not needed for the task.
+Review the input and the generated draft before you share them. Do not supply passwords, access tokens, private email addresses, other secrets, or personal information that is not needed for the task. The plugins do not guarantee that sensitive information will be detected or removed from the generated output.
 
 ## Data handling
 
